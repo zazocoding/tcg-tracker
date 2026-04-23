@@ -4,6 +4,8 @@ A simple web app to track a personal Pokémon TCG collection, built with Firebas
 
 This project can be used as a **template to build your own TCG tracker** (Pokémon, Magic, etc.) but its made to use the .csv file with all the Pokemon up to the nineth generation.
 
+![Architecture Diagram](./assets/example.png)
+
 ---
 
 ## Features
@@ -40,3 +42,4 @@ Each Pokémon is stored as a document in Firestore:
   "binderPage": 1,
   "binderSlot": 1
 }
+
